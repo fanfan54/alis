@@ -54,7 +54,7 @@ Internet connection is required, with wireless WIFI connection see [Wireless_net
 # ./alis.sh
 ```
 
-**Note to self:** customize `PARTITION_ROOT_ENCRYPTION_PASSWORD` and `PARTITION_ROOT_ENCRYPTION_PASSWORD_RETYPE` directly on the installation media before starting the script, as I won't write my password on GitHub 😅
+**Note to self:** customize `HOSTNAME`, `ROOT_PASSWORD`, `ROOT_PASSWORD_RETYPE`, `USER_NAME`, `USER_PASSWORD`, `USER_PASSWORD_RETYPE`, `PARTITION_ROOT_ENCRYPTION_PASSWORD` and `PARTITION_ROOT_ENCRYPTION_PASSWORD_RETYPE` directly on the installation media before starting the script, as I won't write my password on GitHub 😅
 
 ### Installation with asciinema vídeo
 
